@@ -574,7 +574,7 @@
     background-color: $color-3;
     &::before {
       position: absolute;
-      bottom: -6px;
+      bottom: -5px;
       left: 0;
       width: 0;
       height: 0;
@@ -585,7 +585,7 @@
     &::after {
       content: "";
       position: absolute;
-      top: 8px;
+      top: 50%;
       right: 0%;
       transform: translateY(-50%);
       right: -8px;
